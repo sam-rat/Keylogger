@@ -33,6 +33,18 @@ This software is intended for **EDUCATIONAL AND ETHICAL PURPOSES ONLY**.
 * Python 3.x
 * `pip` (Python package installer)
 
+### 🖼️ Screenshots
+
+<p align="center">
+  <img src="screenshot.png" alt="Main GUI" width="750"><br>
+  <b>Figure 1:</b> Main GUI of Python Nmap Scanner
+</p>
+
+<p align="center">
+  <img src="screenshot1.png" alt="Scan Results" width="750"><br>
+  <b>Figure 2:</b> Example of scan results display
+</p>
+
 ### 2. Installation
 
 1.  **Clone the repository:**
