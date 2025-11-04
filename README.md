@@ -37,12 +37,12 @@ This software is intended for **EDUCATIONAL AND ETHICAL PURPOSES ONLY**.
 
 <p align="center">
   <img src="screenshot.png" alt="Main GUI" width="750"><br>
-  <b>Figure 1:</b> Main GUI of Python Nmap Scanner
+  <b>Figure 1:</b> Captured Screenshots
 </p>
 
 <p align="center">
   <img src="screenshot1.png" alt="Scan Results" width="750"><br>
-  <b>Figure 2:</b> Example of scan results display
+  <b>Figure 2:</b> Captured Keys
 </p>
 
 ### 2. Installation
